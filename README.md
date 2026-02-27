@@ -33,6 +33,4 @@
 - Gmail: anuj.bajracharya0312@gmail.com
 ---
 
-![D3cimal0312's GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3cimal0312&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D3cimal0312&layout=compact&theme=tokyonight)
