@@ -8,7 +8,7 @@
 
 ## 🌱 Currently Learning
 - React.js & Node.js
-- REST APIs with Express
+- Express
 - MongoDB for databases
 
 ## 🔭 Currently Working On
