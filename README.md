@@ -71,7 +71,6 @@ Personal projects to sharpen my MERN stack skills, with an emphasis on clean UI 
 [![Website](https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.anujbajracharya.com.np/)
 
 - Email: anuj.bajracharya0312@gmail.com
-- Discord: your-discord-handle
 - Website: [anujbajracharya.com.np](https://www.anujbajracharya.com.np/)
 
 </div>
