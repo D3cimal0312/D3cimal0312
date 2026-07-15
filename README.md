@@ -68,8 +68,10 @@ Personal projects to sharpen my MERN stack skills, with an emphasis on clean UI 
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3cimal0312)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuj.bajracharya0312@gmail.com)
+[![Website](https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.anujbajracharya.com.np/)
+
+- Email: anuj.bajracharya0312@gmail.com
+- Discord: your-discord-handle
+- Website: [anujbajracharya.com.np](https://www.anujbajracharya.com.np/)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=100&section=footer)
