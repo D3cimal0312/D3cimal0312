@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm D3cimal
-
-**Frontend Developer | MERN Stack**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=180&section=header&text=D3cimal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=18)
 
 CSIT Student at Patan Multiple Campus, Kathmandu, Nepal
 
@@ -67,20 +65,11 @@ Personal projects to sharpen my MERN stack skills, with an emphasis on clean UI 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![D3cimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3cimal0312&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D3cimal0312&layout=compact&hide_border=true)
-
-</div>
-
----
-
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3cimal0312)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuj.bajracharya0312@gmail.com)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=100&section=footer)
